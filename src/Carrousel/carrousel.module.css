@@ -39,6 +39,7 @@
     background: linear-gradient(233.16deg, #00B0CE -47.28%, rgba(0, 176, 206, 0.3) 73.34%);
     mix-blend-mode: normal;
     color: white;
+    cursor: pointer;
 }
 .right{
     margin-left: 16px;
@@ -49,6 +50,7 @@
     background: linear-gradient(233.16deg, #00B0CE -47.28%, rgba(0, 176, 206, 0.3) 73.34%);
     mix-blend-mode: normal;
     color: white;
+    cursor: pointer;
 }
 }
 
@@ -87,6 +89,7 @@
         background: linear-gradient(233.16deg, #00B0CE -47.28%, rgba(0, 176, 206, 0.3) 73.34%);
         mix-blend-mode: normal;
         color: white;
+        cursor: pointer;
     }
 
     .right{
@@ -99,6 +102,7 @@
         background: linear-gradient(233.16deg, #00B0CE -47.28%, rgba(0, 176, 206, 0.3) 73.34%);
         mix-blend-mode: normal;
         color: white;
+        cursor: pointer;
     }
 }
 
