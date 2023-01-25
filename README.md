@@ -5,7 +5,7 @@
 ## Deploy
 
 Puede ver la aplicación funcionando sin necesidad de descargar el repositorio haciendo click 
-<a href="https://proflight-challenge.vercel.app/" target="_blank"> aquí </a>. Es responsive, puede abrirlo en cualquier dispositivo.
+<a href="https://proflight-challenge.vercel.app/" target="_blank" rel="noopener noreferrer"> aquí </a>. Es responsive, puede abrirlo en cualquier dispositivo.
 
 
 ## Descripción
